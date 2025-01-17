@@ -4,4 +4,3 @@ iterm2
 op
 tmux/plugins
 configstore
-nvim/lazy-lock.json
